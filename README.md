@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @john-primeaux
-- 👀 I’m interested in learning more about data science
-- 🌱 I’m currently learning Python and Java moving towards a certification in Data Science
+- 👀 I’m now a certified professional data scientist
+- 🌱 I'm currently seeking a position as an analyst
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email - jeprimeaux@gmail.com
 
