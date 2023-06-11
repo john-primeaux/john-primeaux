@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @john-primeaux
-- 👀 I’m now a certified professional data scientist
+- 👀 I'm a certified professional data scientist
 - 🌱 I'm currently seeking a position as an analyst
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email - jeprimeaux@gmail.com
