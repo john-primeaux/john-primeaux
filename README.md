@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Hi, I'm @john-primeaux" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 - 👋 Hi, I’m @john-primeaux
 - 👀 I'm a certified professional data scientist
 - 🌱 I'm currently seeking a position as an analyst
